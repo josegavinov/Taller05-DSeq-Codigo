@@ -12,4 +12,8 @@ public class SoporteTecnico extends Usuario{
     public void derivarProblemaDeGestion(Administrador administrador){
         throw new UnsupportedOperationException();
     }
+
+    public void notifyIncident(){
+        //
+    }
 }
